@@ -1,7 +1,7 @@
 ### Jesper Enschede's portfolio.
 > Welcome to my portfolio, This git-repo contains all my school project, fun side project and other video game development stuff that i'm proud of.
 
-You can download the game by pressing the 'Clone or download' button in the top right, then click download as zip.
+You can download the games by pressing the 'Clone or download' button in the top right, then click download as zip.
 
 If you have a question about something please email me at:
 jesperenschede@gmail.com
