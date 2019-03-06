@@ -20,6 +20,8 @@ I did most of the back-end coding for this game and a little bit of the design a
 
 Teufelskreis is a horror game were you are equipped with a DoubleCompass, it was in a school project in collaboration with TETEM.
 
+I did all of the back-end coding and helped with the concept and design.
+
 
 
 
